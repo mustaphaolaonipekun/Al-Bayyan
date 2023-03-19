@@ -23,7 +23,7 @@ menu.addEventListener("click", () => {
 function myloader() {
   setTimeout(function () {
     document.getElementById("loader").style.display = "none";
-  }, 1000);
+  }, 10000);
 }
 
 
